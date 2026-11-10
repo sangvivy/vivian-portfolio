@@ -344,7 +344,7 @@ const sections = document.querySelectorAll(
     "section[id]"
 );
 
-const navLinks = document.querySelectorAll(
+const activeNavLinks = document.querySelectorAll(
     ".nav-links a[href^='#']"
 );
 
